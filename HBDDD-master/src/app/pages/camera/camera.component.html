@@ -1,0 +1,21 @@
+<app-main></app-main>
+<div style="text-align:center">
+    <div style="margin-top: 40px;">
+      <p>{{seconds}}</p>
+      <webcam [trigger]="triggerObservable" (imageCapture)="handleImage($event)">
+      </webcam>
+      <br/>
+      <button id="snapshotBtn" (click)="triggerSnapshot();">📸</button>
+    </div>
+
+    <div style="text-align: center;">
+        <div *ngIf="webcamImage" style="background-color: white; width: 650px; height: 550px; padding: 13px; display: inline-block;">
+            <img [src]="webcamImage.imageAsDataUrl"/>
+            <div class="font">
+                2021.12.15 <br>
+                배유라 생축 🎂
+            </div>
+        </div>
+    </div>
+</div>
+
