@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "tsc-watch": "^4.5.0"
+  }
+}
