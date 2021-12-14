@@ -411,11 +411,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 7);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, " 2020.06.16 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](3, " 2021.12.15 ");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "br");
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, " \uC774\uC18C\uBBFC \uC0DD\uC77C \uAE30\uB150 \uD83C\uDF82 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, " \uBC30\uC720\uB77C \uC0DD\uC77C \uAE30\uB150 \uD83C\uDF82 ");
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -637,7 +637,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](3, "br");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " \uC870\uB9CC\uAC04 \uC804\uD574\uB4DC\uB9BD\uB2C8\uB2E4 ^^ ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " \uB3D9\uC6D0\uC774\uC758 \uB530\uBD09\uC785\uB2C8\uB2E4 \uD83D\uDC4D ");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "br");
 
@@ -891,10 +891,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         _classCallCheck(this, HbdComponent);
 
         this.playlist = [{
-          title: '이소민 생축',
+          title: '배유라 생축',
           link: 'https://drive.google.com/u/0/uc?id=1xpxXlFhSLq9-bYoCcvQJH8WXW_kc9Md1&export=download'
         }, {
-          title: '하 힘들어',
+          title: 'ㅅㄱ',
           link: 'https://funksyou.com/fileDownload/Songs/128/13091.mp3'
         }];
       }
@@ -1013,7 +1013,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-letter"]],
       decls: 7,
       vars: 0,
-      consts: [[2, "text-align", "center"], [1, "card"], [2, "margin-top", "100px"], ["src", "https://user-images.githubusercontent.com/42020919/84669962-6d147580-af60-11ea-8925-7c09a72fe12b.PNG", "onmouseout", "this.src='https://user-images.githubusercontent.com/42020919/84669962-6d147580-af60-11ea-8925-7c09a72fe12b.PNG'", "onmouseover", "this.src='https://user-images.githubusercontent.com/42020919/84667115-e4e0a100-af5c-11ea-99da-37e926982358.PNG'"]],
+      consts: [[2, "text-align", "center"], [1, "card"], [2, "margin-top", "100px"], ["src", "https://user-images.githubusercontent.com/42020919/84669962-6d147580-af60-11ea-8925-7c09a72fe12b.PNG", "onmouseout", "this.src='https://user-images.githubusercontent.com/42020919/84669962-6d147580-af60-11ea-8925-7c09a72fe12b.PNG'", "onmouseover", "this.src='https://user-images.githubusercontent.com/42020919/84669962-6d147580-af60-11ea-8925-7c09a72fe12b.PNG'"]],
       template: function LetterComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-main");
@@ -1114,7 +1114,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-main-img"]],
       decls: 3,
       vars: 0,
-      consts: [[2, "text-align", "center", "margin-top", "40px"], ["src", "https://user-images.githubusercontent.com/42020919/84655173-6b8c8280-af4b-11ea-8892-dcae4fefcf07.PNG", 2, "width", "700px"]],
+      consts: [[2, "text-align", "center", "margin-top", "40px"], ["src", "KakaoTalk_20211215_010944795.jpg", 2, "width", "700px"]],
       template: function MainImgComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-main");
